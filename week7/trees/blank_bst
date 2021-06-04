@@ -1,0 +1,5 @@
+#include "tree.h"
+
+int main() {
+  node* head = bst_quick_init();
+}
